@@ -79,7 +79,7 @@ Ce projet célèbre l'amour maternel exprimé à travers la cuisine. Chaque tach
 
 ## 📜 Licence
 
-[Spécifiez votre licence ici - suggéré: Creative Commons pour le partage de contenu culturel]
+[CCO: Creative Commons pour le partage de contenu culturel]
 
 ## 🙏 Remerciements
 
