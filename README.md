@@ -1,4 +1,5 @@
 # Recette de Maman
+![GitHub license](https://img.shields.io/github/license/Freaky2112/Recette?style=flat-square&color=blue) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg) ![Stars](https://img.shields.io/github/stars/Freaky2112/Scripts) 
 
 Une collection de recettes familiales précieuses pour préserver l'héritage culinaire de nos mères et le transmettre aux générations futures.
 
@@ -79,12 +80,16 @@ Ce projet célèbre l'amour maternel exprimé à travers la cuisine. Chaque tach
 
 ## 📜 Licence
 
-[CCO: Creative Commons pour le partage de contenu culturel]
+CCO: Creative Commons pour le partage de contenu culturel
 
 ## 🙏 Remerciements
 
 Merci à toutes les mamans et grand-mamans qui ont pris le temps d'écrire leurs recettes et de transmettre leur savoir-faire culinaire. Ce projet est dédié à leur amour et leur générosité.
 
+---
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Freaky2112/Recette)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Freaky2112/Recette?color=purple)
 ---
 
 *"Les meilleures recettes sont celles qui ont des taches de sauce et des coins cornés - elles ont été aimées et utilisées."*
